@@ -1,5 +1,7 @@
-//starting from main()
+#include<iostream>
+using namespace std;
 main(){
+  //declaration & initialization
 int secretNum = 7;
 int guess;
 int guessCount = 0;
