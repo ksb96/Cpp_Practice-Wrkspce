@@ -26,3 +26,4 @@ string function demo.cpp
 user input.cpp
 working with numbers.cpp
 pointer.cpp
+class-obj.cpp
