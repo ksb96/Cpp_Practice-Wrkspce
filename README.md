@@ -27,3 +27,7 @@ user input.cpp
 working with numbers.cpp
 pointer.cpp
 class-obj.cpp
+inheritance.cpp
+cons._func.cpp
+functor.cpp
+G_S.cpp
