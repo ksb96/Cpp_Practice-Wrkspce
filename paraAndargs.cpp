@@ -11,7 +11,7 @@ int getValueFromUser()
 
 void printDouble(int num) // This function now has an integer parameter
 {
-	std::cout << num << " doubled is: " << num * 2 << '\n';
+	std::cout << num << " doubled is: " << num * 2 << '\n'; //* 
 }
 
 int main()
